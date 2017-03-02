@@ -116,7 +116,7 @@ namespace ETS.Entity
         //methods
         public override string ToString()
         {
-            return "ID : " + empId + ") " + firstName + ", " + lastName;
+            return "ID :  " + empId + ") " + firstName + ", " + lastName;
         }
     }
 
